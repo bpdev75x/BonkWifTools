@@ -1,6 +1,10 @@
+
+![github_banner2](https://github.com/user-attachments/assets/dfc87609-0b93-4ebb-941b-96d11bf12616)
+
+
 # Bonkwiftools Bundler
 
-Bonkwiftools Bundler is a powerful tool designed to simplify and automate multi-wallet bundle buying on the Solana blockchain, specifically tailored for use with bonk.fun. This innovative solution enables volume generation, sale execution, and bundle validation across 27 wallets simultaneously, delivering high efficiency for advanced users managing fast-paced trading activity.
+Bonkwiftools Bundler is a powerful tool designed to simplify and automate multi-wallet bundle buying on the Solana blockchain, specifically tailored for use with bonk.fun. This innovative solution enables volume generation, sale execution, and bundle validation across 20 wallets simultaneously, delivering high efficiency for advanced users managing fast-paced trading activity.
 
 ## Initial Setup
 
