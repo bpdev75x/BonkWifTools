@@ -1,7 +1,7 @@
 import { createKeypairs } from "./src/createKeys";
 import { buyBundle } from "./src/jitoPool";
 import { sender } from "./src/senderUI"
-import { createWalletSells, sellXPercentage } from "./src/sellFunc";
+import { createWalletSells,sellXPercentage } from "./src/sellFunc";
 import { remove } from "./src/removeLiq";
 import promptSync from "prompt-sync";
 
