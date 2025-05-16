@@ -25,7 +25,7 @@ const keyInfoPath = path.join(__dirname, 'keyInfo.json');
 swapper();
 
 export async function swapper() {
-    const bundledTxns: VersionedTransaction[] = [];
+    const bundledTxns: VersionedTransaction[]  =  [];
     const keypairs: Keypair[] = loadKeypairs();
 
     let poolInfo: { [key: string]: any } = {};
