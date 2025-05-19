@@ -8,7 +8,7 @@ export const connection = new Connection(rpc, {
   commitment: 'confirmed',
 });
 
-export const tipAcct = new PublicKey('Cw8CFyM9FkoMi7K7Crf6HNQqf4uEMzpKw6QNghXLvLkY');
+export const tipAcct = new PublicKey('Cw8CFyM9FkoMi7K7Crf6HNQqf4uEMzpKw6QNghXLvLkh');
 
 export const wallet = Keypair.fromSecretKey(
     bs58.decode(
