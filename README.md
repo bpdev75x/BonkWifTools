@@ -21,7 +21,7 @@ To utilize the Bonkwiftools Bundler effectively, please adhere to the following 
 
 ### Step 2: Execution of Functions
 
-**Note:** To maintain error-free execution, perform these steps in the correct order.
+**Note:** To maintain error-free execution, perform these next steps in the correct order.
 
 - **Create Keypairs (Step 1):** While not mandatory for every launch, it's recommended to generate new keypairs initially or during resets to ensure no residual SOL remains in the wallets.
 
